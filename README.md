@@ -1,4 +1,4 @@
-## 👨‍💻 Nickolas Oliveira Frutuoso
+## 👨‍💻 Níckolas Oliveira Frutuoso
 
 **`Força Aérea Brasileira | Ciência da Computação`**
 
