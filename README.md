@@ -2,7 +2,7 @@
 
 **`Força Aérea Brasileira | Ciência da Computação`**
 
-Me chamo Nickolas, tenho 20 anos e sou movido pela resolução de problemas através da tecnologia. Atualmente estou cursando Ciências da Computação e também atuo na Diretoria de Tecnologia da Informação (DTI) da Força Aérea Brasileira, onde aplico lógica de programação e análise de dados para otimizar processos. 
+Me chamo Nickolas, tenho 20 anos e sou movido pela resolução de problemas através da tecnologia. Atualmente, curso Ciência da Computação e atuo na Diretoria de Tecnologia da Informação (DTI) da Força Aérea Brasileira. No meu dia a dia, aplico lógica de programação para a automação de tarefas complexas com Python e utilizo o Qlik Sense para o desenvolvimento de Business Intelligence (BI), transformando dados brutos em painéis estratégicos que otimizam processos e auxiliam na tomada de decisão.
 
 <p align="left">
   <a href="https://br.linkedin.com/in/nickolas-oliveira-frutuoso-551993210" target="_blank" alt="LinkedIn">
